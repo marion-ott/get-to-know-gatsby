@@ -11,6 +11,7 @@ export default function Header({ text }) {
             <Link to="/">Home</Link>
             <Link to="/about">About</Link>
             <Link to="/contact">Contact</Link>
+            <Link to="/about-css-modules">About CSS modules</Link>
           </li>
         </ul>
       </nav>
